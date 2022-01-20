@@ -1,5 +1,3 @@
-@@ -1,4 +1,4 @@
-### Olá, eu sou a [Diego Batista](https://github.com/apokalypsi), seja bem-vindo ao meu repositório no GitHub 👋 
 ### Olá, eu sou [Diego Batista](https://github.com/apokalypsi), seja bem-vindo ao meu repositório no GitHub 👋 
 
 
